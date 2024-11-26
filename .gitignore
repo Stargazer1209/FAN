@@ -1,3 +1,6 @@
+# 训练输出的结果
+sin_FAN/
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
